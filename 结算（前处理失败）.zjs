@@ -1,0 +1,6 @@
+{"repeatCount":-1,"pauseOnFail":false,"count":5,"minVerCode":2020000,"minVerName":"2.20.0","screenWidth":1920,"screenHeight":1080,"screenDpi":2,"lastSaveScreenWidth":1920,"lastSaveScreenHeight":1080,"lastSaveScreenDpi":2,"savedVerCode":2024040,"savedVerName":"2.24.4","delay":"1.5","delayUnit":1,"description":""}
+{"type":"点击","duration":"300","delayUnit":1,"posData":{"type":"location","x":"8.1%","y":"5.7%"}}
+{"type":"点击","duration":"300","delayUnit":1,"condition":{"type":"textFount","text":{"type":"text","text":"结","limitArea":"86.7% 3.6% 95.8% 8.2%","ocrMode":"local"},"desc":""},"posData":{"type":"location","x":"90.4%","y":"6.1%"}}
+{"type":"点击","duration":"300","delayUnit":1,"condition":{"type":"colorFound","repeatWhenFalse":true,"repeatWhenFalseLimitTimes":50,"repeatWhenFalseRepeatDelay":100,"colorData":{"type":"color","x":"98%","y":"66.9%","color":"#6d0a0a","limitPosX":"98%","limitPosY":"66.9%","similarPercent":100},"desc":""},"posData":{"type":"location","x":"65.6%","y":"68.6%"}}
+{"type":"点击","delay":"0.02","delayUnit":1,"repeatCount":50,"posData":{"type":"location","x":"48%","y":"81.6%"}}
+{"type":"执行脚本","delayUnit":1,"filePath":"多伦矿场前处理.zjs"}
